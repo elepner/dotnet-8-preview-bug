@@ -48,3 +48,4 @@ dist/
 documentation.json
 .DS_Store
 config.local.js
+output
